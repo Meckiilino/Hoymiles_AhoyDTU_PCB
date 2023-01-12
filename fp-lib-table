@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Hoymiles_AhoyDTU_PCB")(type "KiCad")(uri "${KIPRJMOD}/Hoymiles_AhoyDTU_PCB.pretty")(options "")(descr ""))
+)
