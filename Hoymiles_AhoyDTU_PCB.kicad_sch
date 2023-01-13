@@ -473,7 +473,8 @@
     (uuid f321809c-ab7a-4356-9b11-4c0d46c421ba)
   )
 
-  (text "Reichelt\nS-V 100U 6,3-2" (at 91.44 64.77 0)
+  (text "KEMET  T494D107K010AT\nLänge 7,3 mm\nBreite 4,3 mm \nHöhe 2,8 mm \n\n"
+    (at 91.44 55.88 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7fafe283-eec1-4a3d-969a-0a93ecd134f6)
   )
